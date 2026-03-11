@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Paper](https://img.shields.io/badge/Paper-IEEE--TSP-orange)](#citation)
 [![Powered by](https://img.shields.io/badge/Powered%20by-Oscilla%20Studio-purple)](#oscilla-studio)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18966516.svg)](https://doi.org/10.5281/zenodo.18966516)
 
 > This repository is the **open academic reference implementation** of TSI — designed for reproducibility and peer review.
 > The computational experiments and visualizations in the companion paper were developed using **Oscilla Studio** by **Oscilla Labs**.
